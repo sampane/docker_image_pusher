@@ -7,8 +7,6 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-AdguardTeam/AdGuardHome
-vinlic/kimi-free-api
 xianwei2022/stars.client
 johngong/qbittorrent
 k1483162508/musicn
